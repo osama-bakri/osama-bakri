@@ -26,8 +26,8 @@ const osama: FrontendEngineer = {
   location:   "Egypt 🇪🇬",
   experience: "8+ years",
   focus:      ["Component Architecture", "Design Systems", "Performance"],
-  currently:  "Building Nifty Theme — a modern Nuxt.js admin template",
-  website:    "https://www.niftytheme.website",
+  currently:  "Building Niftytheme — a modern Nuxt.js admin template",
+  website:    "https://www.niftytheme.net",
   available:  true, // open to freelance & collaboration
 };
 ```
